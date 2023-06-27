@@ -1,11 +1,3 @@
-
-
-- :ocean: Exploring the world of computer technology;
-- :dragon: I strive for development and subordinate chaos in my work;
-- :outbox_tray: How to reach me: mochalovdy@yandex.ru ; 
-- :calendar:  Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/bear_fobetor)
-
-
 <h1 align="center">Hi there, I'm Danila </h1>
 <h3 align="center">Web programmer and Problem solver</h3>
 
