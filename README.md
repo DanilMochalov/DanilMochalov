@@ -24,10 +24,11 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href= "https://react.dev/" target="_blank" rel="noreferrer"> <img src="/icons/react.svg" alt="react" width="40" height="40"/>  </a>
-</p>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="/icons/nodedotjs.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="/icons/typescript.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="/icons/docker.svg" alt="docker" width="40" height="40"/></a>
+</p>
+
 
 ### Tools:
 <p align="left"> 
