@@ -1,22 +1,48 @@
-## **Hi there, I'm Danila**
-### **WEB-programmer, enthusiast, thinker!**
+
 
 - :ocean: Exploring the world of computer technology;
 - :dragon: I strive for development and subordinate chaos in my work;
 - :outbox_tray: How to reach me: mochalovdy@yandex.ru ; 
-- :calendar:  Know about my experiences [Habr Career (Ru)](https://career.habr.com/bear_fobetor)
-
-#### Где меня найти:
-[<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Telegram</title><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></svg>](https://t.me/BEAR_GURU)
-
-[<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>VK</title><path d="m9.489.004.729-.003h3.564l.73.003.914.01.433.007.418.011.403.014.388.016.374.021.36.025.345.03.333.033c1.74.196 2.933.616 3.833 1.516.9.9 1.32 2.092 1.516 3.833l.034.333.029.346.025.36.02.373.025.588.012.41.013.644.009.915.004.98-.001 3.313-.003.73-.01.914-.007.433-.011.418-.014.403-.016.388-.021.374-.025.36-.03.345-.033.333c-.196 1.74-.616 2.933-1.516 3.833-.9.9-2.092 1.32-3.833 1.516l-.333.034-.346.029-.36.025-.373.02-.588.025-.41.012-.644.013-.915.009-.98.004-3.313-.001-.73-.003-.914-.01-.433-.007-.418-.011-.403-.014-.388-.016-.374-.021-.36-.025-.345-.03-.333-.033c-1.74-.196-2.933-.616-3.833-1.516-.9-.9-1.32-2.092-1.516-3.833l-.034-.333-.029-.346-.025-.36-.02-.373-.025-.588-.012-.41-.013-.644-.009-.915-.004-.98.001-3.313.003-.73.01-.914.007-.433.011-.418.014-.403.016-.388.021-.374.025-.36.03-.345.033-.333c.196-1.74.616-2.933 1.516-3.833.9-.9 2.092-1.32 3.833-1.516l.333-.034.346-.029.36-.025.373-.02.588-.025.41-.012.644-.013.915-.009ZM6.79 7.3H4.05c.13 6.24 3.25 9.99 8.72 9.99h.31v-3.57c2.01.2 3.53 1.67 4.14 3.57h2.84c-.78-2.84-2.83-4.41-4.11-5.01 1.28-.74 3.08-2.54 3.51-4.98h-2.58c-.56 1.98-2.22 3.78-3.8 3.95V7.3H10.5v6.92c-1.6-.4-3.62-2.34-3.71-6.92Z"/></svg>](https://vk.com/bear_fobetor)
-
-[<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Instagram</title><path d="M12 0C8.74 0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333 0 8.74 0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913.306.788.717 1.459 1.384 2.126.667.666 1.336 1.079 2.126 1.384.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558.788-.306 1.459-.718 2.126-1.384.666-.667 1.079-1.335 1.384-2.126.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913-.306-.789-.718-1.459-1.384-2.126C21.319 1.347 20.651.935 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26 0 12 0zm0 2.16c3.203 0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227-.224.562-.479.96-.899 1.382-.419.419-.824.679-1.38.896-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211 0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421-.569-.224-.96-.479-1.379-.899-.421-.419-.69-.824-.9-1.38-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844 0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678c-3.405 0-6.162 2.76-6.162 6.162 0 3.405 2.76 6.162 6.162 6.162 3.405 0 6.162-2.76 6.162-6.162 0-3.405-2.76-6.162-6.162-6.162zM12 16c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405c0 .795-.646 1.44-1.44 1.44-.795 0-1.44-.646-1.44-1.44 0-.794.646-1.439 1.44-1.439.793-.001 1.44.645 1.44 1.439z"/></svg>](https://www.instagram.com/tayantares/)
+- :calendar:  Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/bear_fobetor)
 
 
+<h1 align="center">Hi there, I'm Danila </h1>
+<h3 align="center">Web programmer and Problem solver</h3>
 
 
+- :ocean: Exploring the world of **computer technology**;
 
-####
+- :dragon: I strive for development and **subordinate chaos** in my work;
 
-####
+- :outbox_tray: How to reach me: **mochalovdy@yandex.ru**; 
+
+- :calendar:  Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/bear_fobetor)
+
+- 🌍 I speak Russian (native), English (B2)
+
+### Connect with me:
+<p align="left">
+<a href="https://t.me/BEAR_GURU" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://vk.com/bear_fobetor" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a>
+<a href="https://career.habr.com/bear_fobetor" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/d71898e2a08f31fd3f9512a9d30d3cb1d025a649/icons/habr.svg" alt="daniilshat" height="60" width="60" /></a>
+</p>
+
+### Languages:
+<p align="left"> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
+<a href= "https://react.dev/" target="_blank" rel="noreferrer"> <img src="/icons/react.svg" alt="react" width="40" height="40"/>  </a>
+</p>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="/icons/nodedotjs.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="/icons/typescript.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="/icons/docker.svg" alt="docker" width="40" height="40"/></a>
+
+### Tools:
+<p align="left"> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.apple.com/macos/ventura/" target="_blank" rel="noreferrer"> <img src="/icons/macos.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="/icons/gnubash.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="/icons/git.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
+</p>
