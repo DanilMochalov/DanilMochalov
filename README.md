@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Danila </h1>
-<h3 align="center">Web programmer and Problem solver</h3>
+<h1 align="center">Hi there, I'm Danil </h1>
+<h3 align="center">Web programmer</h3>
 
 
 - :ocean: Exploring the world of **computer technology**;
