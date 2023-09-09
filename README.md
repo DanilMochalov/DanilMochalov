@@ -8,8 +8,6 @@
 
 - :outbox_tray: How to reach me: **mochalovdy@yandex.ru**; 
 
-- :calendar:  Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/bear_fobetor)
-
 - 🌍 I speak Russian (native), English (B2)
 
 ### Connect with me:
