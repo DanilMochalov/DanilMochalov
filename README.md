@@ -12,9 +12,9 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://t.me/BEAR_GURU" target="blank"><img align="center" src="/icons/Telegram.svg" alt="danilamochalov" height="40" width="40" /></a>
-<a href="https://vk.com/bear_fobetor" target="blank"><img align="center" src="/icons/vk.svg" alt="danilamochalov" height="40" width="40" /></a>
-<a href="https://career.habr.com/bear_fobetor" target="blank"><img align="center" src="/icons/habr.svg" alt="danilamochalov" height="60" width="60" /></a>
+<a href="https://t.me/Quilla_estrella" target="blank"><img align="center" src="/icons/Telegram.svg" alt="danilamochalov" height="40" width="40" /></a>
+<a href="https://vk.com/wilmer_xiea" target="blank"><img align="center" src="/icons/vk.svg" alt="danilamochalov" height="40" width="40" /></a>
+<a href="https://career.habr.com/wilmer" target="blank"><img align="center" src="/icons/habr.svg" alt="danilamochalov" height="60" width="60" /></a>
 </p>
 
 ### Languages:
